@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge06\obj\Debug\netcoreapp3.0\Grade.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge06\obj\Debug\netcoreapp3.0\Grade.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge06\bin\Debug\netcoreapp3.0\Grade.exe
+G:\learnC#\PreCourse\Challenge06\bin\Debug\netcoreapp3.0\Grade.deps.json
+G:\learnC#\PreCourse\Challenge06\bin\Debug\netcoreapp3.0\Grade.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge06\bin\Debug\netcoreapp3.0\Grade.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge06\bin\Debug\netcoreapp3.0\Grade.dll
+G:\learnC#\PreCourse\Challenge06\bin\Debug\netcoreapp3.0\Grade.pdb
+G:\learnC#\PreCourse\Challenge06\obj\Debug\netcoreapp3.0\Grade.dll
+G:\learnC#\PreCourse\Challenge06\obj\Debug\netcoreapp3.0\Grade.pdb

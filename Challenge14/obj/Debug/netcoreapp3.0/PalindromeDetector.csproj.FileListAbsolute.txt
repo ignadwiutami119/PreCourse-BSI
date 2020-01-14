@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.exe
+G:\learnC#\PreCourse\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.deps.json
+G:\learnC#\PreCourse\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.dll
+G:\learnC#\PreCourse\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.pdb
+G:\learnC#\PreCourse\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.dll
+G:\learnC#\PreCourse\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.pdb

@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.exe
+G:\learnC#\PreCourse\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.deps.json
+G:\learnC#\PreCourse\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.dll
+G:\learnC#\PreCourse\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.pdb
+G:\learnC#\PreCourse\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.dll
+G:\learnC#\PreCourse\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.pdb

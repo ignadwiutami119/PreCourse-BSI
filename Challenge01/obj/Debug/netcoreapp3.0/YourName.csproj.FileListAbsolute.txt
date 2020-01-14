@@ -1,0 +1,11 @@
+G:\learnC#\PreCourse\Challenge01\bin\Debug\netcoreapp3.0\YourName.exe
+G:\learnC#\PreCourse\Challenge01\bin\Debug\netcoreapp3.0\YourName.deps.json
+G:\learnC#\PreCourse\Challenge01\bin\Debug\netcoreapp3.0\YourName.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge01\bin\Debug\netcoreapp3.0\YourName.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge01\bin\Debug\netcoreapp3.0\YourName.dll
+G:\learnC#\PreCourse\Challenge01\bin\Debug\netcoreapp3.0\YourName.pdb
+G:\learnC#\PreCourse\Challenge01\obj\Debug\netcoreapp3.0\YourName.csprojAssemblyReference.cache
+G:\learnC#\PreCourse\Challenge01\obj\Debug\netcoreapp3.0\YourName.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge01\obj\Debug\netcoreapp3.0\YourName.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge01\obj\Debug\netcoreapp3.0\YourName.dll
+G:\learnC#\PreCourse\Challenge01\obj\Debug\netcoreapp3.0\YourName.pdb

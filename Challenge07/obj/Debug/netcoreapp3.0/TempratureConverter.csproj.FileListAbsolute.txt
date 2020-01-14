@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.exe
+G:\learnC#\PreCourse\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.deps.json
+G:\learnC#\PreCourse\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.dll
+G:\learnC#\PreCourse\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.pdb
+G:\learnC#\PreCourse\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.dll
+G:\learnC#\PreCourse\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.pdb

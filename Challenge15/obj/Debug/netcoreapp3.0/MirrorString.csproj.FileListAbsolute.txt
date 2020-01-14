@@ -1,0 +1,11 @@
+G:\learnC#\PreCourse\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.exe
+G:\learnC#\PreCourse\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.deps.json
+G:\learnC#\PreCourse\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.dll
+G:\learnC#\PreCourse\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.pdb
+G:\learnC#\PreCourse\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.csprojAssemblyReference.cache
+G:\learnC#\PreCourse\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.dll
+G:\learnC#\PreCourse\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.pdb

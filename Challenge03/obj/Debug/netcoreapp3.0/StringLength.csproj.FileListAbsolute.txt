@@ -1,0 +1,11 @@
+G:\learnC#\PreCourse\Challenge03\bin\Debug\netcoreapp3.0\StringLength.exe
+G:\learnC#\PreCourse\Challenge03\bin\Debug\netcoreapp3.0\StringLength.deps.json
+G:\learnC#\PreCourse\Challenge03\bin\Debug\netcoreapp3.0\StringLength.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge03\bin\Debug\netcoreapp3.0\StringLength.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge03\bin\Debug\netcoreapp3.0\StringLength.dll
+G:\learnC#\PreCourse\Challenge03\bin\Debug\netcoreapp3.0\StringLength.pdb
+G:\learnC#\PreCourse\Challenge03\obj\Debug\netcoreapp3.0\StringLength.csprojAssemblyReference.cache
+G:\learnC#\PreCourse\Challenge03\obj\Debug\netcoreapp3.0\StringLength.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge03\obj\Debug\netcoreapp3.0\StringLength.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge03\obj\Debug\netcoreapp3.0\StringLength.dll
+G:\learnC#\PreCourse\Challenge03\obj\Debug\netcoreapp3.0\StringLength.pdb

@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge10\obj\Debug\netcoreapp3.0\Calculator.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge10\obj\Debug\netcoreapp3.0\Calculator.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge10\bin\Debug\netcoreapp3.0\Calculator.exe
+G:\learnC#\PreCourse\Challenge10\bin\Debug\netcoreapp3.0\Calculator.deps.json
+G:\learnC#\PreCourse\Challenge10\bin\Debug\netcoreapp3.0\Calculator.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge10\bin\Debug\netcoreapp3.0\Calculator.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge10\bin\Debug\netcoreapp3.0\Calculator.dll
+G:\learnC#\PreCourse\Challenge10\bin\Debug\netcoreapp3.0\Calculator.pdb
+G:\learnC#\PreCourse\Challenge10\obj\Debug\netcoreapp3.0\Calculator.dll
+G:\learnC#\PreCourse\Challenge10\obj\Debug\netcoreapp3.0\Calculator.pdb

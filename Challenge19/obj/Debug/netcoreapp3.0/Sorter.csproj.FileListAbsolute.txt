@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge19\bin\Debug\netcoreapp3.0\Sorter.exe
+G:\learnC#\PreCourse\Challenge19\bin\Debug\netcoreapp3.0\Sorter.deps.json
+G:\learnC#\PreCourse\Challenge19\bin\Debug\netcoreapp3.0\Sorter.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge19\bin\Debug\netcoreapp3.0\Sorter.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge19\bin\Debug\netcoreapp3.0\Sorter.dll
+G:\learnC#\PreCourse\Challenge19\bin\Debug\netcoreapp3.0\Sorter.pdb
+G:\learnC#\PreCourse\Challenge19\obj\Debug\netcoreapp3.0\Sorter.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge19\obj\Debug\netcoreapp3.0\Sorter.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge19\obj\Debug\netcoreapp3.0\Sorter.dll
+G:\learnC#\PreCourse\Challenge19\obj\Debug\netcoreapp3.0\Sorter.pdb

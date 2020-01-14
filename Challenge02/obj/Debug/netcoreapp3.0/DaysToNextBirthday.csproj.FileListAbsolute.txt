@@ -1,0 +1,11 @@
+G:\learnC#\PreCourse\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.exe
+G:\learnC#\PreCourse\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.deps.json
+G:\learnC#\PreCourse\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.dll
+G:\learnC#\PreCourse\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.pdb
+G:\learnC#\PreCourse\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.csprojAssemblyReference.cache
+G:\learnC#\PreCourse\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.dll
+G:\learnC#\PreCourse\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.pdb

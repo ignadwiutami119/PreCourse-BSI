@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.exe
+G:\learnC#\PreCourse\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.deps.json
+G:\learnC#\PreCourse\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.dll
+G:\learnC#\PreCourse\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.pdb
+G:\learnC#\PreCourse\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.dll
+G:\learnC#\PreCourse\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.pdb

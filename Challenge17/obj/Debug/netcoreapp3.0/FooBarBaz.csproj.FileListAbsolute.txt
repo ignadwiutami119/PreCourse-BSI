@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.exe
+G:\learnC#\PreCourse\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.deps.json
+G:\learnC#\PreCourse\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.dll
+G:\learnC#\PreCourse\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.pdb
+G:\learnC#\PreCourse\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.dll
+G:\learnC#\PreCourse\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.pdb

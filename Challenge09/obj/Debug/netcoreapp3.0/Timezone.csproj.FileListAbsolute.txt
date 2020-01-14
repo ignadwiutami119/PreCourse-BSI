@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge09\bin\Debug\netcoreapp3.0\Timezone.exe
+G:\learnC#\PreCourse\Challenge09\bin\Debug\netcoreapp3.0\Timezone.deps.json
+G:\learnC#\PreCourse\Challenge09\bin\Debug\netcoreapp3.0\Timezone.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge09\bin\Debug\netcoreapp3.0\Timezone.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge09\bin\Debug\netcoreapp3.0\Timezone.dll
+G:\learnC#\PreCourse\Challenge09\bin\Debug\netcoreapp3.0\Timezone.pdb
+G:\learnC#\PreCourse\Challenge09\obj\Debug\netcoreapp3.0\Timezone.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge09\obj\Debug\netcoreapp3.0\Timezone.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge09\obj\Debug\netcoreapp3.0\Timezone.dll
+G:\learnC#\PreCourse\Challenge09\obj\Debug\netcoreapp3.0\Timezone.pdb

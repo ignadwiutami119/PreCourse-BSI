@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge04\bin\Debug\netcoreapp3.0\Substitution.exe
+G:\learnC#\PreCourse\Challenge04\bin\Debug\netcoreapp3.0\Substitution.deps.json
+G:\learnC#\PreCourse\Challenge04\bin\Debug\netcoreapp3.0\Substitution.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge04\bin\Debug\netcoreapp3.0\Substitution.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge04\bin\Debug\netcoreapp3.0\Substitution.dll
+G:\learnC#\PreCourse\Challenge04\bin\Debug\netcoreapp3.0\Substitution.pdb
+G:\learnC#\PreCourse\Challenge04\obj\Debug\netcoreapp3.0\Substitution.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge04\obj\Debug\netcoreapp3.0\Substitution.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge04\obj\Debug\netcoreapp3.0\Substitution.dll
+G:\learnC#\PreCourse\Challenge04\obj\Debug\netcoreapp3.0\Substitution.pdb

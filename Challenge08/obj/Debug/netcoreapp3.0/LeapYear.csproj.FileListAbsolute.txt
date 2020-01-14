@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.exe
+G:\learnC#\PreCourse\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.deps.json
+G:\learnC#\PreCourse\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.dll
+G:\learnC#\PreCourse\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.pdb
+G:\learnC#\PreCourse\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.dll
+G:\learnC#\PreCourse\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.pdb

@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.exe
+G:\learnC#\PreCourse\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.deps.json
+G:\learnC#\PreCourse\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.dll
+G:\learnC#\PreCourse\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.pdb
+G:\learnC#\PreCourse\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.dll
+G:\learnC#\PreCourse\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.pdb

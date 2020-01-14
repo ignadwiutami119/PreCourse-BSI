@@ -1,0 +1,1137 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\learnC#\\PreCourse\\My_pre_test\\My_pre_test.csproj": {}
+  },
+  "projects": {
+    "G:\\learnC#\\PreCourse\\Challenge01\\YourName.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge01\\YourName.csproj",
+        "projectName": "YourName",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge01\\YourName.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge02\\DaysToNextBirthday.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge02\\DaysToNextBirthday.csproj",
+        "projectName": "DaysToNextBirthday",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge02\\DaysToNextBirthday.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge02\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge03\\StringLength.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge03\\StringLength.csproj",
+        "projectName": "StringLength",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge03\\StringLength.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge03\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge04\\Substitution.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge04\\Substitution.csproj",
+        "projectName": "Substitution",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge04\\Substitution.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge04\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge05\\EvenOdd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge05\\EvenOdd.csproj",
+        "projectName": "EvenOdd",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge05\\EvenOdd.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge05\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge06\\Grade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge06\\Grade.csproj",
+        "projectName": "Grade",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge06\\Grade.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge06\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge07\\TempratureConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge07\\TempratureConverter.csproj",
+        "projectName": "TempratureConverter",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge07\\TempratureConverter.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge07\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge08\\LeapYear.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge08\\LeapYear.csproj",
+        "projectName": "LeapYear",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge08\\LeapYear.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge08\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj",
+        "projectName": "Timezone",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge09\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge10\\Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge10\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge10\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge10\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge11\\SumArgument.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge11\\SumArgument.csproj",
+        "projectName": "SumArgument",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge11\\SumArgument.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge11\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge12\\ToUpperCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge12\\ToUpperCase.csproj",
+        "projectName": "ToUpperCase",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge12\\ToUpperCase.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge12\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge13\\CountWords.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge13\\CountWords.csproj",
+        "projectName": "CountWords",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge13\\CountWords.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge13\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge14\\PalindromeDetector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge14\\PalindromeDetector.csproj",
+        "projectName": "PalindromeDetector",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge14\\PalindromeDetector.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge14\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge15\\MirrorString.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge15\\MirrorString.csproj",
+        "projectName": "MirrorString",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge15\\MirrorString.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge15\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge16\\FruitFinder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge16\\FruitFinder.csproj",
+        "projectName": "FruitFinder",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge16\\FruitFinder.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge16\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge17\\FooBarBaz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge17\\FooBarBaz.csproj",
+        "projectName": "FooBarBaz",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge17\\FooBarBaz.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge17\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge18\\FindMinMaxAvg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge18\\FindMinMaxAvg.csproj",
+        "projectName": "FindMinMaxAvg",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge18\\FindMinMaxAvg.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge18\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge19\\Sorter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge19\\Sorter.csproj",
+        "projectName": "Sorter",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge19\\Sorter.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge19\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\Challenge20\\ObjectClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge20\\ObjectClass.csproj",
+        "projectName": "ObjectClass",
+        "projectPath": "G:\\learnC#\\PreCourse\\Challenge20\\ObjectClass.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\Challenge20\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\learnC#\\PreCourse\\My_pre_test\\My_pre_test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\learnC#\\PreCourse\\My_pre_test\\My_pre_test.csproj",
+        "projectName": "My_pre_test",
+        "projectPath": "G:\\learnC#\\PreCourse\\My_pre_test\\My_pre_test.csproj",
+        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
+        "outputPath": "G:\\learnC#\\PreCourse\\My_pre_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "G:\\learnC#\\PreCourse\\Challenge01\\YourName.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge01\\YourName.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge02\\DaysToNextBirthday.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge02\\DaysToNextBirthday.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge03\\StringLength.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge03\\StringLength.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge04\\Substitution.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge04\\Substitution.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge05\\EvenOdd.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge05\\EvenOdd.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge06\\Grade.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge06\\Grade.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge07\\TempratureConverter.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge07\\TempratureConverter.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge08\\LeapYear.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge08\\LeapYear.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge10\\Calculator.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge10\\Calculator.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge11\\SumArgument.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge11\\SumArgument.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge12\\ToUpperCase.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge12\\ToUpperCase.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge13\\CountWords.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge13\\CountWords.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge14\\PalindromeDetector.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge14\\PalindromeDetector.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge15\\MirrorString.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge15\\MirrorString.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge16\\FruitFinder.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge16\\FruitFinder.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge17\\FooBarBaz.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge17\\FooBarBaz.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge18\\FindMinMaxAvg.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge18\\FindMinMaxAvg.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge19\\Sorter.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge19\\Sorter.csproj"
+              },
+              "G:\\learnC#\\PreCourse\\Challenge20\\ObjectClass.csproj": {
+                "projectPath": "G:\\learnC#\\PreCourse\\Challenge20\\ObjectClass.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

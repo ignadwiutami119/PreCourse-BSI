@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.exe
+G:\learnC#\PreCourse\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.deps.json
+G:\learnC#\PreCourse\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.dll
+G:\learnC#\PreCourse\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.pdb
+G:\learnC#\PreCourse\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.dll
+G:\learnC#\PreCourse\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.pdb

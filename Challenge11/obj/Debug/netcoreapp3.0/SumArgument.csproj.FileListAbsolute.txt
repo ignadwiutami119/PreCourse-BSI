@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.exe
+G:\learnC#\PreCourse\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.deps.json
+G:\learnC#\PreCourse\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.dll
+G:\learnC#\PreCourse\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.pdb
+G:\learnC#\PreCourse\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.dll
+G:\learnC#\PreCourse\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.pdb

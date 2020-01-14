@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge13\obj\Debug\netcoreapp3.0\CountWords.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge13\obj\Debug\netcoreapp3.0\CountWords.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge13\bin\Debug\netcoreapp3.0\CountWords.exe
+G:\learnC#\PreCourse\Challenge13\bin\Debug\netcoreapp3.0\CountWords.deps.json
+G:\learnC#\PreCourse\Challenge13\bin\Debug\netcoreapp3.0\CountWords.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge13\bin\Debug\netcoreapp3.0\CountWords.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge13\bin\Debug\netcoreapp3.0\CountWords.dll
+G:\learnC#\PreCourse\Challenge13\bin\Debug\netcoreapp3.0\CountWords.pdb
+G:\learnC#\PreCourse\Challenge13\obj\Debug\netcoreapp3.0\CountWords.dll
+G:\learnC#\PreCourse\Challenge13\obj\Debug\netcoreapp3.0\CountWords.pdb

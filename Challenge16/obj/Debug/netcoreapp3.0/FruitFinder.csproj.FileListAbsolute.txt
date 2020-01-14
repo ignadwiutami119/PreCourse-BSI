@@ -1,0 +1,10 @@
+G:\learnC#\PreCourse\Challenge16\bin\Debug\netcoreapp3.0\FruitFinder.exe
+G:\learnC#\PreCourse\Challenge16\bin\Debug\netcoreapp3.0\FruitFinder.deps.json
+G:\learnC#\PreCourse\Challenge16\bin\Debug\netcoreapp3.0\FruitFinder.runtimeconfig.json
+G:\learnC#\PreCourse\Challenge16\bin\Debug\netcoreapp3.0\FruitFinder.runtimeconfig.dev.json
+G:\learnC#\PreCourse\Challenge16\bin\Debug\netcoreapp3.0\FruitFinder.dll
+G:\learnC#\PreCourse\Challenge16\bin\Debug\netcoreapp3.0\FruitFinder.pdb
+G:\learnC#\PreCourse\Challenge16\obj\Debug\netcoreapp3.0\FruitFinder.AssemblyInfoInputs.cache
+G:\learnC#\PreCourse\Challenge16\obj\Debug\netcoreapp3.0\FruitFinder.AssemblyInfo.cs
+G:\learnC#\PreCourse\Challenge16\obj\Debug\netcoreapp3.0\FruitFinder.dll
+G:\learnC#\PreCourse\Challenge16\obj\Debug\netcoreapp3.0\FruitFinder.pdb
