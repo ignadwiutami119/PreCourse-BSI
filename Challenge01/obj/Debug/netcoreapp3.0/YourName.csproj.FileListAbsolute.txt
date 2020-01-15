@@ -9,3 +9,14 @@ G:\learnC#\PreCourse\Challenge01\obj\Debug\netcoreapp3.0\YourName.AssemblyInfoIn
 G:\learnC#\PreCourse\Challenge01\obj\Debug\netcoreapp3.0\YourName.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge01\obj\Debug\netcoreapp3.0\YourName.dll
 G:\learnC#\PreCourse\Challenge01\obj\Debug\netcoreapp3.0\YourName.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\bin\Debug\netcoreapp3.0\YourName.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\bin\Debug\netcoreapp3.0\YourName.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\bin\Debug\netcoreapp3.0\YourName.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\bin\Debug\netcoreapp3.0\YourName.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\bin\Debug\netcoreapp3.0\YourName.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\bin\Debug\netcoreapp3.0\YourName.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\obj\Debug\netcoreapp3.0\YourName.csprojAssemblyReference.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\obj\Debug\netcoreapp3.0\YourName.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\obj\Debug\netcoreapp3.0\YourName.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\obj\Debug\netcoreapp3.0\YourName.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge01\obj\Debug\netcoreapp3.0\YourName.pdb

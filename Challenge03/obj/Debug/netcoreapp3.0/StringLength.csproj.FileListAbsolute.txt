@@ -9,3 +9,14 @@ G:\learnC#\PreCourse\Challenge03\obj\Debug\netcoreapp3.0\StringLength.AssemblyIn
 G:\learnC#\PreCourse\Challenge03\obj\Debug\netcoreapp3.0\StringLength.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge03\obj\Debug\netcoreapp3.0\StringLength.dll
 G:\learnC#\PreCourse\Challenge03\obj\Debug\netcoreapp3.0\StringLength.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\bin\Debug\netcoreapp3.0\StringLength.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\bin\Debug\netcoreapp3.0\StringLength.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\bin\Debug\netcoreapp3.0\StringLength.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\bin\Debug\netcoreapp3.0\StringLength.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\bin\Debug\netcoreapp3.0\StringLength.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\bin\Debug\netcoreapp3.0\StringLength.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\obj\Debug\netcoreapp3.0\StringLength.csprojAssemblyReference.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\obj\Debug\netcoreapp3.0\StringLength.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\obj\Debug\netcoreapp3.0\StringLength.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\obj\Debug\netcoreapp3.0\StringLength.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge03\obj\Debug\netcoreapp3.0\StringLength.pdb

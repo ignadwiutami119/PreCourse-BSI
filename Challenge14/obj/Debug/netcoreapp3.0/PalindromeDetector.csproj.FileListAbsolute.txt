@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.Asse
 G:\learnC#\PreCourse\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.dll
 G:\learnC#\PreCourse\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge14\bin\Debug\netcoreapp3.0\PalindromeDetector.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge14\obj\Debug\netcoreapp3.0\PalindromeDetector.pdb

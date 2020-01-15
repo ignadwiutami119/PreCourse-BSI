@@ -8,3 +8,14 @@ G:\learnC#\PreCourse\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.dll
 G:\learnC#\PreCourse\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.pdb
 G:\learnC#\PreCourse\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.dll
 G:\learnC#\PreCourse\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\bin\Debug\netcoreapp3.0\EvenOdd.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.csprojAssemblyReference.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge05\obj\Debug\netcoreapp3.0\EvenOdd.pdb

@@ -9,3 +9,14 @@ G:\learnC#\PreCourse\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.AssemblyIn
 G:\learnC#\PreCourse\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.dll
 G:\learnC#\PreCourse\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\bin\Debug\netcoreapp3.0\MirrorString.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.csprojAssemblyReference.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge15\obj\Debug\netcoreapp3.0\MirrorString.pdb

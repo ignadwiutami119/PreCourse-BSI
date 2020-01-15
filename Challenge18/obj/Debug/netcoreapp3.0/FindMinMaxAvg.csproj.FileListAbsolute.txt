@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.AssemblyI
 G:\learnC#\PreCourse\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.dll
 G:\learnC#\PreCourse\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge18\bin\Debug\netcoreapp3.0\FindMinMaxAvg.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge18\obj\Debug\netcoreapp3.0\FindMinMaxAvg.pdb

@@ -8,3 +8,14 @@ G:\learnC#\PreCourse\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.AssemblyInfoI
 G:\learnC#\PreCourse\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.dll
 G:\learnC#\PreCourse\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\bin\Debug\netcoreapp3.0\FooBarBaz.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.csprojAssemblyReference.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge17\obj\Debug\netcoreapp3.0\FooBarBaz.pdb

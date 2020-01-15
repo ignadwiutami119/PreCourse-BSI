@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge10\bin\Debug\netcoreapp3.0\Calculator.dll
 G:\learnC#\PreCourse\Challenge10\bin\Debug\netcoreapp3.0\Calculator.pdb
 G:\learnC#\PreCourse\Challenge10\obj\Debug\netcoreapp3.0\Calculator.dll
 G:\learnC#\PreCourse\Challenge10\obj\Debug\netcoreapp3.0\Calculator.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge10\bin\Debug\netcoreapp3.0\Calculator.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge10\bin\Debug\netcoreapp3.0\Calculator.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge10\bin\Debug\netcoreapp3.0\Calculator.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge10\bin\Debug\netcoreapp3.0\Calculator.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge10\bin\Debug\netcoreapp3.0\Calculator.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge10\bin\Debug\netcoreapp3.0\Calculator.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge10\obj\Debug\netcoreapp3.0\Calculator.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge10\obj\Debug\netcoreapp3.0\Calculator.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge10\obj\Debug\netcoreapp3.0\Calculator.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge10\obj\Debug\netcoreapp3.0\Calculator.pdb

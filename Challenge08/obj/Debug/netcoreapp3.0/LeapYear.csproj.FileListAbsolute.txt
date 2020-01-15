@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.AssemblyInfoIn
 G:\learnC#\PreCourse\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.dll
 G:\learnC#\PreCourse\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge08\bin\Debug\netcoreapp3.0\LeapYear.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge08\obj\Debug\netcoreapp3.0\LeapYear.pdb

@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.AssemblyInf
 G:\learnC#\PreCourse\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.dll
 G:\learnC#\PreCourse\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge20\bin\Debug\netcoreapp3.0\ObjectClass.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge20\obj\Debug\netcoreapp3.0\ObjectClass.pdb

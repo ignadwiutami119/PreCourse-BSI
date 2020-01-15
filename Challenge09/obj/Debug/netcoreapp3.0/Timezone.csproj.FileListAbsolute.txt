@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge09\obj\Debug\netcoreapp3.0\Timezone.AssemblyInfoIn
 G:\learnC#\PreCourse\Challenge09\obj\Debug\netcoreapp3.0\Timezone.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge09\obj\Debug\netcoreapp3.0\Timezone.dll
 G:\learnC#\PreCourse\Challenge09\obj\Debug\netcoreapp3.0\Timezone.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge09\bin\Debug\netcoreapp3.0\Timezone.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge09\bin\Debug\netcoreapp3.0\Timezone.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge09\bin\Debug\netcoreapp3.0\Timezone.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge09\bin\Debug\netcoreapp3.0\Timezone.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge09\bin\Debug\netcoreapp3.0\Timezone.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge09\bin\Debug\netcoreapp3.0\Timezone.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge09\obj\Debug\netcoreapp3.0\Timezone.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge09\obj\Debug\netcoreapp3.0\Timezone.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge09\obj\Debug\netcoreapp3.0\Timezone.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge09\obj\Debug\netcoreapp3.0\Timezone.pdb

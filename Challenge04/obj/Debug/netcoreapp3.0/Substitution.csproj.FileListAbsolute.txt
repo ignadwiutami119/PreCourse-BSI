@@ -8,3 +8,14 @@ G:\learnC#\PreCourse\Challenge04\obj\Debug\netcoreapp3.0\Substitution.AssemblyIn
 G:\learnC#\PreCourse\Challenge04\obj\Debug\netcoreapp3.0\Substitution.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge04\obj\Debug\netcoreapp3.0\Substitution.dll
 G:\learnC#\PreCourse\Challenge04\obj\Debug\netcoreapp3.0\Substitution.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\bin\Debug\netcoreapp3.0\Substitution.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\bin\Debug\netcoreapp3.0\Substitution.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\bin\Debug\netcoreapp3.0\Substitution.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\bin\Debug\netcoreapp3.0\Substitution.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\bin\Debug\netcoreapp3.0\Substitution.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\bin\Debug\netcoreapp3.0\Substitution.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\obj\Debug\netcoreapp3.0\Substitution.csprojAssemblyReference.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\obj\Debug\netcoreapp3.0\Substitution.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\obj\Debug\netcoreapp3.0\Substitution.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\obj\Debug\netcoreapp3.0\Substitution.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge04\obj\Debug\netcoreapp3.0\Substitution.pdb

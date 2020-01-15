@@ -9,3 +9,14 @@ G:\learnC#\PreCourse\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.Asse
 G:\learnC#\PreCourse\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.dll
 G:\learnC#\PreCourse\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\bin\Debug\netcoreapp3.0\DaysToNextBirthday.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.csprojAssemblyReference.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge02\obj\Debug\netcoreapp3.0\DaysToNextBirthday.pdb

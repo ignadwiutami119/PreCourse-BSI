@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.AssemblyInf
 G:\learnC#\PreCourse\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.dll
 G:\learnC#\PreCourse\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge11\bin\Debug\netcoreapp3.0\SumArgument.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge11\obj\Debug\netcoreapp3.0\SumArgument.pdb

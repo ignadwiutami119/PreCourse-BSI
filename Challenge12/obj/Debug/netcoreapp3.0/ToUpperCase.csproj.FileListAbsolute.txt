@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.AssemblyInf
 G:\learnC#\PreCourse\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.dll
 G:\learnC#\PreCourse\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge12\bin\Debug\netcoreapp3.0\ToUpperCase.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge12\obj\Debug\netcoreapp3.0\ToUpperCase.pdb

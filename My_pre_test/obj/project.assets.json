@@ -6900,19 +6900,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\": {}
+    "D:\\Users\\bsi50132\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\learnC#\\PreCourse\\My_pre_test\\My_pre_test.csproj",
+      "projectUniqueName": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\My_pre_test\\My_pre_test.csproj",
       "projectName": "My_pre_test",
-      "projectPath": "G:\\learnC#\\PreCourse\\My_pre_test\\My_pre_test.csproj",
-      "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
-      "outputPath": "G:\\learnC#\\PreCourse\\My_pre_test\\obj\\",
+      "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\My_pre_test\\My_pre_test.csproj",
+      "packagesPath": "D:\\Users\\bsi50132\\.nuget\\packages\\",
+      "outputPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\My_pre_test\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "D:\\Users\\bsi50132\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -6923,65 +6927,65 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "G:\\learnC#\\PreCourse\\Challenge01\\YourName.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge01\\YourName.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge01\\YourName.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge01\\YourName.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge02\\DaysToNextBirthday.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge02\\DaysToNextBirthday.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge02\\DaysToNextBirthday.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge02\\DaysToNextBirthday.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge03\\StringLength.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge03\\StringLength.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge03\\StringLength.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge03\\StringLength.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge04\\Substitution.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge04\\Substitution.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge04\\Substitution.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge04\\Substitution.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge05\\EvenOdd.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge05\\EvenOdd.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge05\\EvenOdd.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge05\\EvenOdd.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge06\\Grade.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge06\\Grade.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge06\\Grade.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge06\\Grade.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge07\\TempratureConverter.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge07\\TempratureConverter.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge07\\TempratureConverter.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge07\\TempratureConverter.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge08\\LeapYear.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge08\\LeapYear.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge08\\LeapYear.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge08\\LeapYear.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge09\\Timezone.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge09\\Timezone.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge10\\Calculator.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge10\\Calculator.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge10\\Calculator.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge10\\Calculator.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge11\\SumArgument.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge11\\SumArgument.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge11\\SumArgument.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge11\\SumArgument.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge12\\ToUpperCase.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge12\\ToUpperCase.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge12\\ToUpperCase.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge12\\ToUpperCase.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge13\\CountWords.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge13\\CountWords.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge13\\CountWords.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge13\\CountWords.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge14\\PalindromeDetector.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge14\\PalindromeDetector.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge14\\PalindromeDetector.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge14\\PalindromeDetector.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge15\\MirrorString.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge15\\MirrorString.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge15\\MirrorString.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge15\\MirrorString.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge16\\FruitFinder.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge16\\FruitFinder.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge16\\FruitFinder.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge16\\FruitFinder.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge17\\FooBarBaz.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge17\\FooBarBaz.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge17\\FooBarBaz.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge17\\FooBarBaz.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge18\\FindMinMaxAvg.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge18\\FindMinMaxAvg.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge18\\FindMinMaxAvg.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge18\\FindMinMaxAvg.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge19\\Sorter.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge19\\Sorter.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge19\\Sorter.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge19\\Sorter.csproj"
             },
-            "G:\\learnC#\\PreCourse\\Challenge20\\ObjectClass.csproj": {
-              "projectPath": "G:\\learnC#\\PreCourse\\Challenge20\\ObjectClass.csproj"
+            "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge20\\ObjectClass.csproj": {
+              "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge20\\ObjectClass.csproj"
             }
           }
         }
@@ -7027,7 +7031,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

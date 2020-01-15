@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj": {}
+    "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge09\\Timezone.csproj": {}
   },
   "projects": {
-    "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj": {
+    "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge09\\Timezone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj",
+        "projectUniqueName": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge09\\Timezone.csproj",
         "projectName": "Timezone",
-        "projectPath": "G:\\learnC#\\PreCourse\\Challenge09\\Timezone.csproj",
-        "packagesPath": "C:\\Users\\Igna Dwi Utami\\.nuget\\packages\\",
-        "outputPath": "G:\\learnC#\\PreCourse\\Challenge09\\obj\\",
+        "projectPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge09\\Timezone.csproj",
+        "packagesPath": "D:\\Users\\bsi50132\\.nuget\\packages\\",
+        "outputPath": "D:\\TRAININGC#\\14Januari\\PrecourseTest\\PreCourse-BSI\\Challenge09\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Igna Dwi Utami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "D:\\Users\\bsi50132\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -50,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

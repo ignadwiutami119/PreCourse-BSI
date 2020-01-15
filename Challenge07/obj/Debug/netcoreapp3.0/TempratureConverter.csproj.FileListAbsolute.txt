@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.Ass
 G:\learnC#\PreCourse\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.dll
 G:\learnC#\PreCourse\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge07\bin\Debug\netcoreapp3.0\TempratureConverter.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge07\obj\Debug\netcoreapp3.0\TempratureConverter.pdb

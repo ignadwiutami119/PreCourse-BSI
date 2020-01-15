@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge19\obj\Debug\netcoreapp3.0\Sorter.AssemblyInfoInpu
 G:\learnC#\PreCourse\Challenge19\obj\Debug\netcoreapp3.0\Sorter.AssemblyInfo.cs
 G:\learnC#\PreCourse\Challenge19\obj\Debug\netcoreapp3.0\Sorter.dll
 G:\learnC#\PreCourse\Challenge19\obj\Debug\netcoreapp3.0\Sorter.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge19\bin\Debug\netcoreapp3.0\Sorter.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge19\bin\Debug\netcoreapp3.0\Sorter.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge19\bin\Debug\netcoreapp3.0\Sorter.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge19\bin\Debug\netcoreapp3.0\Sorter.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge19\bin\Debug\netcoreapp3.0\Sorter.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge19\bin\Debug\netcoreapp3.0\Sorter.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge19\obj\Debug\netcoreapp3.0\Sorter.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge19\obj\Debug\netcoreapp3.0\Sorter.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge19\obj\Debug\netcoreapp3.0\Sorter.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge19\obj\Debug\netcoreapp3.0\Sorter.pdb

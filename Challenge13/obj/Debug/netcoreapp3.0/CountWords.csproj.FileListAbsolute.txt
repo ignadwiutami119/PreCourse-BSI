@@ -8,3 +8,13 @@ G:\learnC#\PreCourse\Challenge13\bin\Debug\netcoreapp3.0\CountWords.dll
 G:\learnC#\PreCourse\Challenge13\bin\Debug\netcoreapp3.0\CountWords.pdb
 G:\learnC#\PreCourse\Challenge13\obj\Debug\netcoreapp3.0\CountWords.dll
 G:\learnC#\PreCourse\Challenge13\obj\Debug\netcoreapp3.0\CountWords.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge13\bin\Debug\netcoreapp3.0\CountWords.exe
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge13\bin\Debug\netcoreapp3.0\CountWords.deps.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge13\bin\Debug\netcoreapp3.0\CountWords.runtimeconfig.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge13\bin\Debug\netcoreapp3.0\CountWords.runtimeconfig.dev.json
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge13\bin\Debug\netcoreapp3.0\CountWords.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge13\bin\Debug\netcoreapp3.0\CountWords.pdb
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge13\obj\Debug\netcoreapp3.0\CountWords.AssemblyInfoInputs.cache
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge13\obj\Debug\netcoreapp3.0\CountWords.AssemblyInfo.cs
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge13\obj\Debug\netcoreapp3.0\CountWords.dll
+D:\TRAININGC#\14Januari\PrecourseTest\PreCourse-BSI\Challenge13\obj\Debug\netcoreapp3.0\CountWords.pdb
